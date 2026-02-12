@@ -1,0 +1,49 @@
+body {
+    background-color: #f5efe6;
+    font-family: "Georgia", serif;
+    color: #3e2f2f;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 40px;
+    background: #fffaf3;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.05);
+}
+
+h1 {
+    text-align: center;
+    font-size: 42px;
+    color: #6d4c41;
+    margin-bottom: 5px;
+}
+
+h3 {
+    text-align: center;
+    font-weight: normal;
+    margin-top: 0;
+    color: #8d6e63;
+}
+
+h2 {
+    margin-top: 40px;
+    color: #5d4037;
+}
+
+hr {
+    margin: 30px 0;
+    border: 0;
+    height: 1px;
+    background: #d7ccc8;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 50px;
+    color: #a1887f;
+}
